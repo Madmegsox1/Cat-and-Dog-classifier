@@ -13,7 +13,7 @@ the line's
 The modules you need are:
 `tensorflow` and `scipy` and `PIL` but the other libs should be pre-installed.
 
-To see if an image is a cat or a dog put it into the folder called `working_set` then run the py file.
+To see if an image is a cat or a dog put it into the folder called `working_set` then run the `tf_classifier.py` file.
 you should see an output like this:
 
 <p align="center">
