@@ -1,6 +1,8 @@
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ## Cat and Dog image classifier
 
-This takes an image and classifies it as a dog or a cat using machine learning!
+This takes an image and classifies it as a dog or a cat using machine learning! 😎
 
 it uses over 4000 images of both cats and dogs.
 
