@@ -1,11 +1,11 @@
 ## Cat and Dog image classifier
 
-This takes an image and classifies it as a dog or a cat!
+This takes an image and classifies it as a dog or a cat using machine learning!
 
 it uses over 4000 images of both cats and dogs.
 
 ### How to use it:
-The model is already trained and automatically loads up the saved file but if you want to train it your self just uncommet
+The model is already trained and automatically loads up the save file but if you want to train it your self just uncommet
 the line's
 
 The modules you need are:
